@@ -1,4 +1,4 @@
-# ~/.bashr
+# ~/.bashrc
 # .bash_profile
 
 #Alias
