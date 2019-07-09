@@ -1,2 +1,2 @@
 Teste de configuração global/local
-
+Modificação de arquivo para exemplificar para a Carol
